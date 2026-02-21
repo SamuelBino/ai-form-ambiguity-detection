@@ -66,7 +66,7 @@ The backend is built with **AWS serverless services** and integrates a **Large L
 
 ## ⚡ Credits
 
-Built by **Samuel Bino**, BCA Final Year Student, 2026.  
-[GitHub Profile Link]  
+Built by **Samuel Bino**, 
+https://github.com/SamuelBino
 
 ---
